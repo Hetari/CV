@@ -1,0 +1,62 @@
+body {
+  background-color: #E7F6F2;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: rgb(206, 204, 204);
+  border-width: 8px;
+  width: 10%;
+}
+
+img {
+  height: 200px;
+}
+
+h1 {
+  color: #2C3333;
+  font-family: "Century Gothic";
+}
+
+h3 {
+  color: #2C3333;
+  font-family: "Century Gothic";
+  
+}
+
+p {
+  color: #395B64;
+  font-family: "Century Gothic";
+  font-weight: bold;
+}
+
+li {
+  color: #395B64;
+  font-family: "Century Gothic";
+}
+
+th {
+  color: #395B64;
+  font-family: "Century Gothic";
+  font-weight: bold;
+}
+
+td {
+  color: #395B64;
+  font-family: "Century Gothic";
+}
+
+label {
+  font-family: "Century Gothic";
+  font-size: large;
+}
+
+input {
+  background-color: #f3f3f3;
+}
+
+textarea {
+  font-family: "Century Gothic";
+  background-color: #f3f3f3;
+} 
