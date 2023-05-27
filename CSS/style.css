@@ -1,0 +1,198 @@
+@import url(//db.onlinewebfonts.com/c/5f5c97306a7c03c6aa6989ca4c89c9d0?family=Rolasand);
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montez&display=swap');
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+p {
+    /* width: 50%; */
+    margin: auto;
+}
+
+h1 {
+    font-family: "poppins", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #1b2733;
+    font-size: 3.125rem;
+    margin: 0px;
+    padding: 0;
+}
+
+h2 {
+    color: #0c1d4b;
+    font-family: "poppins", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    /* width: 50%; */
+}
+
+h3 {
+    color: #0b3c76;
+    font-family: "poppins", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+    /* width: 50%; */
+}
+
+hr {
+    border-color: #85bdfa;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 15px;
+    width: 10%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+
+button {
+    border-style: none;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+button:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+button a {
+    color: #ffffff;
+}
+
+a {
+    color: #0a2052;
+}
+
+.name {
+    font-family: Rolasand, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.work {
+    font-family: poppins;
+    font-size: 1rem;
+    font-weight: normal;
+    width: 100%;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    padding-top: 10%;
+}
+
+.top-cloud {
+    top: 25%;
+    position: absolute;
+    right: 3.5%;
+    width: 25%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 50%;
+    right: 62%;
+    width: 30%;
+}
+
+.mountain {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    width: 100%;
+}
+
+.profile {
+    margin: auto;
+    text-align: left;
+    width: 50%;
+}
+
+.middle-container {
+    padding-top: 100px;
+}
+
+.pic {
+    border-bottom-style: solid;
+    border-color: #d7e0e9;
+    border-radius: 50%;
+    border-right-style: solid;
+    border-style: none;
+    float: right;
+    width: 40%;
+    margin-left: 30px;
+}
+
+.pic-l {
+    border-bottom-style: solid;
+    border-color: #d7e0e9;
+    border-radius: 50%;
+    border-right-style: solid;
+    border-style: none;
+    float: left;
+    width: 25%;
+    margin-right: 30px;
+}
+
+.pic-r {
+    border-bottom-style: solid;
+    border-color: #d7e0e9;
+    border-radius: 50%;
+    border-right-style: solid;
+    border-style: none;
+    float: right;
+    width: 25%;
+    margin-left: 30px;
+}
+
+.skill {
+    margin: auto auto 100px auto;
+}
+
+.skill-row {
+    margin: auto;
+    width: 50%;
+    line-height: 1.8;
+}
+
+.topic {
+    font-family: "poppins", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* margin: auto; */
+    text-align: justify;
+}
+
+
+
+.text {
+    font-family: "poppins", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 1.125rem;
+    margin: auto;
+    text-align: justify;
+}
+
+.contact-me {
+    padding-bottom: 3%;
+    width: 50%;
+    margin: auto;
+}
+
+.bottom-container {
+    background-color: #85bdfa;
+    padding-top: 3%;
+}
